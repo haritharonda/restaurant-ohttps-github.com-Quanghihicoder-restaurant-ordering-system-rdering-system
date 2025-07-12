@@ -1,7 +1,6 @@
-# restaurant-ordering-system
+## 💻 Output Screenshot
 
-Watch Youtube video for set up, run, and demo
+Here is the output of the Restaurant Ordering System UI running locally:
 
-https://www.youtube.com/watch?v=Yf8zB4dXp7I
+![Frontend Output](output.png)
 
-Give a star if you like it!
